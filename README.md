@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya06-AK/Leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Akshaya06-AK/Leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Akshaya06-AK/Leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
