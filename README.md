@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Akshaya06-AK/Leetcode_solution/tree/master/0009-palindrome-number) |
+| [3524-find-x-value-of-array-i](https://github.com/Akshaya06-AK/Leetcode_solution/tree/master/3524-find-x-value-of-array-i) |
 ## Tree
 |  |
 | ------- |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshaya06-AK/Leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
+## Array
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/Akshaya06-AK/Leetcode_solution/tree/master/3524-find-x-value-of-array-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/Akshaya06-AK/Leetcode_solution/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
