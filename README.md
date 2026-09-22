@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Akshaya06-AK/Leetcode_solution/tree/master/0009-palindrome-number) |
 | [3524-find-x-value-of-array-i](https://github.com/Akshaya06-AK/Leetcode_solution/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Akshaya06-AK/Leetcode_solution/tree/master/3525-find-x-value-of-array-ii) |
 ## Tree
 |  |
 | ------- |
@@ -34,8 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/Akshaya06-AK/Leetcode_solution/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Akshaya06-AK/Leetcode_solution/tree/master/3525-find-x-value-of-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/Akshaya06-AK/Leetcode_solution/tree/master/3524-find-x-value-of-array-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Akshaya06-AK/Leetcode_solution/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
